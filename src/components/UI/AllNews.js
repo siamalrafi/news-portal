@@ -6,6 +6,7 @@ import RootLayout from "../Layouts/RootLayout";
 
 const AllNews = ({ allNews }) => {
    const { Meta } = Card;
+
    return (
       <>
          <h1
